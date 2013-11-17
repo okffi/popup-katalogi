@@ -1,5 +1,19 @@
+Helsingin kaupungin tietojärjestelmäluettelot CSV-muodossa
+==========================================================
+
+Helsingin kaupunki on julkaissut Excel-tiedoston, jossa on osin puutteellinen, mutta paras saatavilla oleva luettelo kaupunkiorganisaation käyttämistä tietojärjestelmistä. Alkuperäistiedostossa järjestelmät on lueteltu virastoittain taulukon välilehdillä. Aineiston käytettävyyden parantamiseksi erilliset luettelot on koottu yhdeksi CSV-tiedostoksi (luettelossa 1040 riviä), jonka metatiedot on muvattu erillisessä tiedostossa.
+
+* [Alkuperäinen Excel -muotoinen tietojärjestelmäluettelo]()
+* Tietojärjestelmäluettelo CSV-muodossa: [HKI_tietojarjestelmaluettelo_nettiversio_muokattu.csv](https://github.com/okffi/popup-katalogi/blob/master/HKI_tietojarjestelmaluettelo_nettiversio_muokattu.csv)
+* CSV -muotoisen tietojärjestelmäluettelon metatiedot: [datapackage.json](https://github.com/okffi/popup-katalogi/blob/master/datapackage.json)
+* [Näkymä, jossa luettelosta on automaattisesti generoitu katalogi-näkymä: [http://bit.ly/helsingin_tietojarjestelmaluettelo](bit.ly/helsingin_tietojarjestelmaluettelo)
+
+Helsingin tietojärjestelmäluettelo toimii esimerkkiaineistona, jonka avulla kehitetään helppoa tapaa päivittää ja esittää luettelodataa GitHubissa.
+
+
 Popup-katalogi
 ==============
+Toinen käyttötarkoitus CSV-muotoisen datan GitHub -pohjaiseen päivittämiseen on luoda kaupungeille helppo Popup-datakatalogi.
 
 Popup-katalogin pohjimmainen idea on hostata dataa GitHubissa [Simple Data Format (SDF) -formaatissa](http://data.okfn.org/standards/simple-data-format) ja generoida SDF-paketeista katalogi-näkymä, jota käyttäjät voivat selata github.io-domainin kautta.
 
