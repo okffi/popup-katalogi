@@ -1,0 +1,88 @@
+Järjestelmän tunniste*,Järjestelmän tyyppi*,Järjestelmän nimi*,Pääjärjestelmän nimi,Keskeisin käyttötarkoitus ja hyödyt*,Järjestelmän keskeisimmät toiminnallisuudet*,Järjestelmän keskeinen tietosisältö*,AMS / TOS*,TJS*,HKRS*,"Järjestelmän* 
+omistaja (organisaatio)",Järjestelmän sisältämien tietojen omistaja,Järjestelmän tekninen vastuu (organisaatio)*,Järjestelmää käyttävät organisaatiot luettelona (matriisissa tarkka tieto)*
+ARBIS-005,Tietojärj.,Ahjo,AHJO,Asian- ja asiakirjanhallinta-järjestelmä,"Asianhallinnan ja asiakirjojen ohjaus ja hallinta, päätöksenteon ohjaus, valmistelu","Päätökset, pöytäkirjat, muistiot, perustelut, liitteet",0,0,0,Halke / Hallintopalvelut,0,Taske / Titek,Konsenitaso
+ARBIS-098,Tietojärj.,Anmälningsystemet,KUHA,Vanhan kurssinhallintajärjestelmän ilmoitusjärjestelmä,Verkkoilmoittautuminen,kts KUHA,0,0,0,0,0,0,0
+ARBIS-006,Tietojärj.,BIP,BIP,0,0,0,0,0,0,0,0,0,0
+ARBIS-014,Tietojärj.,Helmi,0,intranet jne,0,0,0,0,0,0,0,0,0
+ARBIS-011,Tietojärj.,"HIJAT, eHijat",HIJAT,Henkilöstö ja palkkatietojärjestelmä,0,0,0,0,0,0,0,0,0
+ARBIS-009,Tietojärj.,Kosti,Kosti,0,0,0,0,0,0,0,0,0,0
+ARBIS-099,Tietojärj.,KUHA,KUHA,Vanha kurssinhallintajärjestelmä,"Kurssien suunnittelu, kurssiluettelon pohja, ilmoittautumiset, laskutus, palkkaus, tilastointi, tilahallinta","asiakastiedot, kurssitiedot, tilastot, laskutustiedot, henkilötiedot, palkanmääritystiedot, käyttäjätiedot, koulutustilat",0,0,X,0,0,0,"RTO, STO"
+ARBIS-002,Tietojärj.,Kuha-arkistointi,Kuha-arkistointi,Vanhan kurssihallintajärjestelmän tietojen selaus,Vanhan kurssihallintajärjestelmän tietojen selaus,"asiakastiedot, kurssitiedot, tilastot, laskutustiedot, henkilötiedot, palkanmääritystiedot, käyttäjätiedot, koulutustilat",0,0,X,STO/RTO,STO/RTO,STO/RTO,"RTO, STO"
+ARBIS-097,Tietojärj.,KUHA-support,KUHA,Vanhan kurssinhallintajärjestelmän tukisovellukset,"Verkkoilmoittautuminen, tilastot, käyttäjätiedot, yhteystiedot jne",0,0,0,0,0,0,0,0
+ARBIS-001,Tietojärj.,Kursor,Kursor,Kurssinhallintajärjestelmä,"Kurssien suunnittelu, kurssiluettelon pohja, ilmoittautumiset, laskutus, palkkaus, tilastointi, tilahallinta","asiakastiedot, kurssitiedot, tilastot, laskutustiedot, henkilötiedot, palkanmääritystiedot, käyttäjätiedot, koulutustilat",0,0,x,STO/RTO,STO/RTO,STO/RTO,"RTO, STO"
+ARBIS-008,Tietojärj.,Laske,Laske,Kaupungin taloushallinnon laskentajärjestelmä,"Kirjanpito, reskontrat, laskutus, käyttöomaisuus, projektilaskentaa","Laskentatunnisteet, budjettitieto, toteumat",0,X,X,Taske / Tasu,Taske + hallintokunnat,Taske / Titek,Kaikki
+ARBIS-010,Tietojärj.,M2,M2,"M2 matka- ja kuluhallintajärjestelmässä käsitellään matkustamisesta, kaupungin luottokortti Eurocard ostot ja pienhankinnoista aiheutuvia kustannuksia sekä kohdistetaan ko. kulut kirjanpitoon asianmukaisille tileille","virkamatkojen käsittelyä, kuluveloituksien maksamista, matkojen seurantaa ja koordinointia",matkalaskut,Kyllä,0,X,Talpa,0,Talpa,"Tieke, Talpa, Taske, Heke"
+ARBIS-013,Tietojärj.,Outlook,0,sähköposti,0,0,0,0,0,0,0,0,0
+ARBIS-012,Tietojärj.,Palvelukassa,0,0,kassapääte,kassasuoritukset,0,0,0,0,0,0,0
+ARBIS-003,Tietojärj.,PrettyLib,PrettyLib,Kirjastojärjestelmä,"Kirjastotoiminnan hoito, teoskanta, lainaukset jne",0,0,0,X,0,0,0,useampi
+ARBIS-004,Tietojärj.,PrettyLib-support,PrettyLib,Kirjastojärjestelmän tukisovellukset,"Kurssihallintajärjestelmän asiakastietojen päivittäminen kirjastojärjestelmään, asiakkaiden www-haut kirjastojärjestelmästä",0,0,0,0,0,0,0,0
+ARBIS-007,Tietojärj.,Timecon,Timecon,Työajanseurantajärjestelmä,"Sisään ja ulosleimaukset, tuntiraportointi",0,0,0,X,OPEV,RTO,OPEV?,"OPEV. RTO, ???"
+0,Tietojärj.,"Acive Directory, AD",0,"Käyttäjätunnus-, Käyttöoikeushakemisto","Käyttäjäryhmien ja tunnusten hallinta, pääsynhallinta Win-verkkoon & sovelluksiin","Käyttäjätunnukset, käyttäjäryhmät, koneet/palvelimet, henkilönimet, sähköpostiosoitteet, SIP-osoitteet",0,0,X,Taske / Titek,Hallintokunnat,Taske / Titek,Kaikki hallintokunnat paitsi Energia
+0,Tietojärj.,Ahjo,AHJO,Asian- ja asiakirjanhallinta-järjestelmä sisältäen,"Asianhallinnan ja asiakirjojen ohjaus ja hallinta, päätöksenteon ohjaus, valmistelu, päätöshallinta","Päätökset, pöytäkirjat, muistiot, perustelut, liitteet",0,0,X,Halke / Hallintopalvelut,0,Taske / Titek,Konsenitaso
+0,Tietojärj.,Aineistopankki,0,"Kuvien, videoiden hellinta.",Media-aineiston hallinta,"Kuvien, videoiden yms. Arkisto",0,0,0,Halke,Halke,0,0
+0,Tietojärj.,"Asiointi.hel.fi, Sähköinen asiointipalvelu",0,Tarjota itsepalveluita HKI asiakkaille Internetin kautta,"Erilaiset sähköiset asiointipalvelut, asiankäsittelyn seuranta, sähköisten lomakkeiden lähetys,kaupungin asiointikansion hallinta","Asiakastiedot, palveluihin liittyvät tiedot",0,0,X,Taske / Titek,"Hallintokunnat ja asiakkaat, asiakas- ja tunnistautumistiedot / titek",Taske / Titek,"Heke, HKR, Kulke, KV, Liv, Nk, Opev, Pel, RAKVV, Sote, Sto, Talpa, Taske, Vaka, Ymk, Palmia"
+0,Tietojärj.,As-Ko,As-Ko,Asiakas- ja asuntorekisteriohjelma,0,Asiakas- ja asuntorekisteri,0,0,X,ATT,ATT,T-KnowHow Oy,ATT
+0,Tietojärj.,Astu,AHJO,Asiakirjatuontato,Asiakirjojen tuotanto,Asiakirjat,0,0,0,Halke / Hallintopalvelut,0,Taske / Titek,Kaikki
+0,Tietojärj.,Basware Finance,0,Maksuvalmius,Maksuvalmiusennusteiden teko,Käyttäjärekisteri,0,X,0,Taske / Varat (Talpa),Taske,Talpa,"att, sote, vaka, opev, kir, hkr, stara, kv, helsa, hkl, palmia, taske"
+0,Tietojärj.,Basware Maksuliikenne,0,"Tiliotteiden hallinta, tiliöinti ja siirto kirjanpitoon, viitteiden ja suoraveloitusvaltuutusten nouto pankista,sekä viitteiden ja sv-valt.jako.Reskontran ulkopuoliset ja ulkomaan maksut. ","Tiliotteiden tiliöinnit,viitesuoritusten ja sv-valt.jako. Pankkiaineistojen nouto ja lähetys.","Tiliotteet, viitteet, suoraveloitukse, sv-valtuutukset, valuuttakurssit",0,0,X,Talpa,0,Talpa,0
+0,Tietojärj.,BIP,0,"BIP -järjestelmässä tiliöidään, tarkastetaan ja hyväksytään ostolaskut ennen niiden siirtämistä ostoreskontraan ja maksuun. ","Ostolaskujen vastaanotto, tiliöinti, tarkastus ja hyväksyminen.","toimittajat, laskentatunnisteet, valuuttakurssit, ostolaskujen perustiedot ja kirjaukset, ostolaskujen käsittelijöiden käyttäjätiedot",Kyllä,0,X,Talpa,0,Talpa,0
+0,Tietojärj.,BO,0,raportointijärjestelmä,0,0,0,0,0,Taske,0,0,0
+0,Tietojärj.,Datainfo Proshop,0,puhelinlaitteiden ja liittymien tilausjärjestelmä,0,0,0,0,0,0,0,0,0
+0,Tietojärj.,Digium Enterprise,0,Nettikyselyt,"Erilaisten sähköisten kyselyiden luonti, julkaisu, vastaamienen, vastausten hallinta","Kyselyvastaukset, kyselyt",0,0,0,Taske / Titek,Kyselyjen tekijät,Taske / Titek,0
+0,Tietojärj.,Edilex,0,ajantasainen lainsäädäntö,0,0,0,0,0,0,0,0,0
+0,Tietojärj.,eHEVY,Henkilöstöhallinnon tietojärjestelmä,raportointi,0,"henkilön nimi- ja osoitetiedot, henkilötunnus, tehtävää ja palkkaa kuvaavat tiedot",0,0,X,heke,0,Talpa,0
+0,Tietojärj.,eRekry,rekrytointijärjestelmä,avoimien työpaikkojen ilmoittaminen sekä niiden haku,0,"työnhakijan nimi- ja osoitetiedot, syntymäaika, tutkinnot, työkokemus sekä muut työnhakijan ilmoittamat tiedot",0,0,X,Heke,0,Heke,0
+0,Tietojärj.,Esmikko,0,Tilaturvallisuus ja työajanseuranta,"Tilaturvallisuus, kulkuoikeuksien hallinta, työajanseuranta",Henkilöistä sukunimi ja etunimi. Kulkutapahtumat ja kulkuajat tallentuvat järjestelmässä ovikohtaisesti. Työaikapäätteellä tallentuvat työaikaleimaukset.,0,0,X,ATT,ATT,0,"Taske, Halke"
+0,Tietojärj.,eTaika,0,"kurssien ja tilaisuuksien hallinnointi ja ilmoittautuminen, kuntoremonttien hallinnointi ja ilmoittautuminen",0,"henkilön ja esimiehen nimi ja yhteystiedot työpaikalle, ilmoittautumiset ja osallistumiset tilaisuuksiin, tilaisuuksien tiedot",0,0,X,Oiva,0,Oiva,0
+0,Tietojärj.,Facta kuntarekisteri,0,0,0,0,0,0,0,0,0,0,0
+0,Tietojärj.,FPM,0,talouden suunnittelu,0,0,0,0,0,Taske?,0,0,0
+0,Tietojärj.,Hel.fi viestintäportaali,0,Julkinen Internet-palvelu ja sen sisällönhallinta,"Sisällöntuotanto, -hallinta, ja -julkaisu","Kaupungin rakenteen, palveluiden ja päätöksenteon tietoja perustietoja (virastojen verkkosivut)",0,X,0,Taske / Titek,Hallintokunnat,Taske / Titek,PKS
+0,Tietojärj.,Helinä,0,idea- ja innovaatioehdotusten tekeminen ja kommentointi,0,0,0,0,0,Heke,0,Heke,0
+0,Tietojärj.,Helmi,0,Intranet ja intranettyötilat,"Intranet ja työtilojen sisällönhalllinta, julkaisu, työkkulut ja dokumentinhallinta toiminnallisuudet (tilojen hallinta, wikit, dokumenttivarasto, blogit)","Uutiset, ohjeet, organisaation yms. Kuvaukset, työryhmien, projektien jne. aineistot",0,0,X,Taske / Titek,Hallintokunnat,Taske / Titek,Kaikki hallintokunnat paitsi Energia
+0,Tietojärj.,"Helsingin seudun kauppakamari: Oikeudenalan palvelut, LakiUutiset: Työoikeus ja
+vero-oikeus.",0,0,0,0,0,0,0,0,0,0,0
+0,Tietojärj.,henkilostokortti.fi,0,henkilöstökorttien tilausjärjestelmä,henkilöstökorttien tilaaminen,0,0,0,0,Heke,0,Heke,0
+0,Tietojärj.,HETA,0,Raportointi sisältäen TilaDW:n,"Raportointidatan keruu, säilytys ja raporttien muodostus","Talous-, henkilöstö-, käyttövolyymitieto ja kiinteistötiedot",0,X,0,Taske / Tasu,Hallintokunnat,Taske / Titek,0
+0,Tietojärj.,HIJAT,Henkilöstöhallinnon tietojärjestelmä,"henkilöstön palkanmaksu, kuukausipalkkaiset",0,"henkilön nimi- ja osoitetiedot, henkilötunnus, tehtävää ja palkkaa kuvaavat tiedot",0,0,X,Heke,0,Talpa,0
+0,Tietojärj.,Hilma,0,0,0,0,0,0,0,0,0,0,0
+0,Tietojärj.,HILMA,HILMA Julkiset hankinnat,Julkisten hankintojen ilmoittaminen,0,"Työ- ja elinkeinoministeriön ylläpitämä maksuton, sähköinen ilmoituskanava, jossa hankintayksiköt ilmoittavat julkisista hankinnoistaan.",0,0,0,0,0,0,0
+0,Tietojärj.,HR-työpöytä,Henkilöstöhallinnon palvelut,vuosilomien ja muiden poissaolojen ilmoittaminen ja hakeminen,0,"henkilön nimi, lomahakemukset, poissaoloilmoitukset ja -hakemukset",0,0,X,Heke,0,Talpa,0
+0,Tietojärj.,Karttapalvelu,0,0,0,0,0,0,0,0,0,0,0
+0,Tietojärj.,Kerro kartalle,0,Kuntalaismielipiteen kysely karttapohjaisesti,"Mielipiteiden kerääminen karttapohjaisten kyselyjen avulla, vastausten tarkastelu","Kyselyt, vastaukset, sijanititieto",0,0,X,Taske / Titek,"Hallintokunnat, kuntalaiset",Taske / Titek,"HKR, KSV, SoTe, Pel, Opev, Taske, Halke, Nk"
+0,Tietojärj.,"KH Net, ",0,Kiinteistönpidon ohjeet,0,Kiinteistönpito,0,0,0,ATT,0,Rakennustieto Oy,0
+0,Tietojärj.,Klara Net,0, Rakentamisen kustannuslaskenta ja urakkatarjoukset,0,ohjelma rakennus- ja korjaushankkeiden rakennusosapohjaiseen kustannuslaskentaan sekä urakkatarjousten laadintaan.,0,0,0,ATT,0,Rakennustieto Oy,0
+0,Tietojärj.,Kokoussovellus,AHJO,"Valtuusto-, kaupunginhallitus- ja lautakuntien koukoushallinta","Kokousten hallinta, ohjaus, asiakirjanäkymät",Käyttäjätiedot,0,0,0,Halke / Hallintopalvelut,0,Taske / Titek,Kaikki
+0,Tietojärj.,Kosti,0,ostotilausjärjestelmä,0,0,0,0,0,Hank,0,0,0
+0,Tietojärj.,Kuntalaisen opas - Fonecta,0,0,0,0,0,0,0,0,0,0,0
+0,Tietojärj.,Laske,0,Kaupungin taloushallinnon laskentajärjestelmä,"Kirjanpito, reskontrat, laskutus, käyttöomaisuus, projektilaskentaa","Laskentatunnisteet, budjettitieto, toteumat",0,X,X,Taske / Tasu,Taske + hallintokunnat,Taske / Titek,Kaikki
+0,Tietojärj.,LVI Net,0,Rakennusohjeita,0,"sisältää keskeiset tiedot ja ohjeet hyvään talotekniikan rakennustapaan, suunnittelusta asentamiseen ja kunnossapitoon",0,0,0,ATT,0,Rakennustieto Oy,0
+0,Tietojärj.,M2,0,"M2 matka- ja kuluhallintajärjestelmässä käsitellään matkustamisesta, kaupungin luottokortti Eurocard ostot ja pienhankinnoista aiheutuvia kustannuksia sekä kohdistetaan ko. kulut kirjanpitoon asianmukaisille tileille","virkamatkojen käsittelyä, kuluveloituksien maksamista, matkojen seurantaa ja koordinointia",matkalaskut,Kyllä,0,X,Talpa,0,Talpa,0
+0,Tietojärj.,Merex,0,Kaupungin sisäinen puhelinluettelo,0,0,0,0,0,Palmia,0,Palmia,0
+0,Tietojärj.,NIJAT,Henkilöstöhallinnon tietojärjestelmä,nimikirja,0,"henkilön nimi- ja osoitetiedot, henkilötunnus, tehtävää ja palkkaa kuvaavat tiedot",0,0,X,Heke,0,Talpa,0
+0,Tietojärj.,Paikkatieto,0,0,0,0,0,0,0,0,0,0,0
+0,Tietojärj.,PAJAT,Henkilöstöhallinnon tietojärjestelmä,palkkionmaksu,0,"henkilön nimi- ja osoitetiedot, henkilötunnus, tehtävää ja palkkaa kuvaavat tiedot",0,0,X,Heke,0,Talpa,0
+0,Tietojärj.,Palvelukartta,0,Julkinen kjäyttöliittymä toimipistetietoihin,"Graafinen käyttöliittymä, yhdistää kartta-, toimipiste-, esteettömyys- ja väestötiedot, palautekanava",Käyttöliittymätietoja,0,0,X,Taske / Titek,-,Taske / Titek,"PKS kunnat, kaikki hallintokunnat"
+0,Tietojärj.,Projektit,Projektitietokanta,Rakennusprojektien ja -hankkeiden hallinta,0,"Asuntoyhtiöt, rakennuskustannukset",0,0,0,ATT,ATT,T-KnowHow Oy,ATT
+0,Tietojärj.,PROS,HELA-PROS,Asian- ja asiakirjanhallinta-järjestelmä,Seurata hallintokeskukses-sa valmisteltavien asioiden käsittelyn etenemistä kaupunginhallinnoss,"Käsiteltävän asian kuvaus, käsittelytiedot ja päätökset, sekä siihen liittyvien henkilöiden tietoja",0,0,X,Halke,0,0,0
+0,Tietojärj.,"Ratu Net, ",0,Korjausrakentamisen menetelmiä,0,"Ratu on ammattilaisen työväline, joka kertoo miten rakennat tai korjaat suunnitelmallisesti ja turvallisesti. Se yhtenäistää ja parantaa työmenetelmiä, ohjaa ja varmistaa, että tiimisi tuottaa sovittua laatua tai palvelua häiriöuhkista huolimatta.",0,0,0,ATT,0,Rakennustieto Oy,0
+0,Tietojärj.,Res-Ko,Res-Ko,Asuntomyyntireskontra,Tieto myytävien huoneistojen kauppahinnoista.,Tieto myytävien huoneistojen kauppahinnoista.,0,0,0,ATT,ATT,T-KnowHow Oy,ATT
+0,Tietojärj.,RT Net,0,Tietoa rakentamisesta,0,Rakennusalan tietopalvelu,0,0,0,ATT,0,Rakennustieto Oy,0
+0,Tietojärj.,Simap,EU:n julkisten hankintojen sivusto,Arkkitehtikilpailujen julkistaminen,0,Julkisia hankintoja koskeva tieto Euroopassa.,0,0,0,0,0,0,0
+0,Tietojärj.,Sokopro,0,Rakennusprojektien hallinta,0,0,0,0,0,0,0,0,0
+0,Tietojärj.,Sopimuslomake Net ,0,Rakennusalan sopimusmallit,0,rakennus- ja kiinteistöalan yhteisen sopimuskäytännön mukaiset asiakirjat,0,0,0,ATT,ATT,Rakennustieto Oy,0
+0,Tietojärj.,Sähköposti+viestintä (Outlook+ Lync),0,"Sähköposti-, pikaviesti- SIP-puhelu- telekonfrenssi-  ja kalenteriratkaisu. Sisäinen + ulkoinen kommunikaatio verkossa.","Sähköposti-, pikaviesti-, telekonfrenssi-, SIP-puhelu - ja kalenteripalvelut","Sähköpostit, kalenteritiedot, kontaktit",0,0,X,Taske / Titek,Käyttäjät,Taske / Titek,Kaikki hallintokunnat
+0,Tietojärj.,Tasu BP (Busines Planning),0,Taloussuunnittelu,"Talousarviohallinta, budjetointi ja seuranta",Kaupungin talousarviotiedot ja ennustetiedot,0,X,0,Taske / Tasu,Tuula Saxholm,Taske / Tasu,"Taske, opev, sote, vaka, Talpa, Palmia, Energia, Satama, HKL, Oiva"
+0,Tietojärj.,Työsuojelupakki,0,"tapaturmailmoitusten ja turvallisuuspoikkeamien tekeminen, vaarojen arviointi",0,"henkilötiedot, vahingon tiedot, työsuhdetiedot, palkkatiedot, turvallisuuspoikkeaman tiedot, turvallisuuspoikkeaman tutkintatiedot, tiedot mahdollisista toimenpiteistä",0,0,x,Heke,0,Heke,0
+0,Tietojärj.,VAKAT,Henkilöstöhallinnon tietojärjestelmä,vakanssirekisteri,0,"henkilön nimi- ja osoitetiedot, henkilötunnus, tehtävää ja palkkaa kuvaavat tiedot",0,0,X,Heke,0,Talpa,0
+0,Tietojärj.,WebCard,henkilöstökorttijärjestelmä,henkilöstökorttien hallinnointi,0,"henkilön nimi, henkilötunnus, valokuva ja viraston nimi",0,0,X,Heke,0,Heke,0
+0,Tietojärj.,www.uuttahelsinkia.fi,0,Kehittämisosaston verkkopalvelu,"Verkkosivujen tuotanto, hallinta, julkaisu",Verkkosivut,0,0,0,Taske / Keto,Taske / Keto,Lasipalatsin Mediakeskus Oy,"Taske, Halke, ATT, Helen, Helsa, Tukkutori, Helsingin seudun ympäristöpalvelut, HSY, HKL, KSV, KV, LIV, RAKVV, HKR,
+Stara, Sote, Ymk, Vaka"
+0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0
