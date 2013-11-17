@@ -20,7 +20,7 @@
         "fields": [
           {
             "id": "Järjestelmän tunniste*",
-            "description": "",
+            "description": "Kaupungilla ei vielä ole käytössään uniikka tunnistetta tietojärjestelmille (tästä syystä luettelo myös sisältänee duplikaatteja), osa virastoista on antanut kuitenkin omassa käytössään oleville tietojärjestelmille juoksevan numeroinnin tai muun vastaavan tunnisteen.",
             "type": "string"
           },
           {
@@ -30,7 +30,7 @@
           },
           {
             "id": "Järjestelmän nimi*",
-            "description": "",
+            "description": "Järjestelmän käytössä oleva nimi, huom. sama järjestelmä saattaa esiintyä luettelossa eri nimillä.",
             "type": "string"
           },
           {
@@ -55,17 +55,17 @@
           },
           {
             "id": "AMS / TOS*",
-            "description": "",
+            "description": "Järjestelmästä on tehty arkistonmuodostussuunnitelma",
             "type": "string"
           },
           {
             "id": "TJS*",
-            "description": "",
+            "description": "Järjestelmästä on tehty tietojärjestelmäseloste",
             "type": "string"
           },
           {
             "id": "HKRS*",
-            "description": "",
+            "description": "Järjestelmästä on tehty henkilörekisteriseloste",
             "type": "string"
           },
           {
@@ -85,7 +85,7 @@
           },
           {
             "id": "Järjestelmää käyttävät organisaatiot luettelona (matriisissa tarkka tieto)*",
-            "description": "",
+            "description": "Matriisi on toisenlainen myöhemmin julkaistava näkymä, jossa tietojärjestelmät ja niitä käyttävät organisaatiot on taulukoitu ristiin.",
             "type": "string"
           }
         ]
