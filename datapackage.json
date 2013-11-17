@@ -1,0 +1,95 @@
+{
+  "name": "Helsingin kaupungin tietojärjestelmäluettelo",
+  "title": "Helsingin kaupungin tietojärjestelmäluettelo",
+  "description": "Koostettu yhtenäinen CSV-muotoinen luettelo alkuperäisestä kaupungin julkisemasta Excel-tiedostosta, jossa eri virastojen tetojärjestelmät ovat eri välilehdillä.",
+  "licenses": [
+    {
+      "id": "hri",
+      "name": "HRI – tietoaineistojen lisenssi – nimeä",
+      "version": "1.0",
+      "url": "http://www.hri.fi/lisenssit/hri-nimea/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "HKI_tietojarjestelmaluettelo_nettiversio_muokattu",
+      "url": "https://raw.github.com/okffi/popup-katalogi/master/HKI_tietojarjestelmaluettelo_nettiversio_muokattu.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "id": "Järjestelmän tunniste*",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "Järjestelmän tyyppi*",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "Järjestelmän nimi*",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "Pääjärjestelmän nimi",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "Keskeisin käyttötarkoitus ja hyödyt*",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "Järjestelmän keskeisimmät toiminnallisuudet*",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "Järjestelmän keskeinen tietosisältö*",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "AMS / TOS*",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "TJS*",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "HKRS*",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "Järjestelmän* \nomistaja (organisaatio)",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "Järjestelmän sisältämien tietojen omistaja",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "Järjestelmän tekninen vastuu (organisaatio)*",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "Järjestelmää käyttävät organisaatiot luettelona (matriisissa tarkka tieto)*",
+            "description": "",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
