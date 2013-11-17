@@ -6,7 +6,7 @@ Helsingin kaupunki on julkaissut Excel-tiedoston, jossa on osin puutteellinen, m
 * [Alkuperäinen Excel -muotoinen tietojärjestelmäluettelo]()
 * Tietojärjestelmäluettelo CSV-muodossa: [HKI_tietojarjestelmaluettelo_nettiversio_muokattu.csv](https://github.com/okffi/popup-katalogi/blob/master/HKI_tietojarjestelmaluettelo_nettiversio_muokattu.csv)
 * CSV -muotoisen tietojärjestelmäluettelon metatiedot: [datapackage.json](https://github.com/okffi/popup-katalogi/blob/master/datapackage.json)
-* [Näkymä, jossa luettelosta on automaattisesti generoitu katalogi-näkymä: [http://bit.ly/helsingin_tietojarjestelmaluettelo](bit.ly/helsingin_tietojarjestelmaluettelo)
+* [Näkymä, jossa luettelosta on automaattisesti generoitu katalogi-näkymä: [bit.ly/helsingin_tietojarjestelmaluettelo](http://bit.ly/helsingin_tietojarjestelmaluettelo)
 
 Helsingin tietojärjestelmäluettelo toimii esimerkkiaineistona, jonka avulla kehitetään helppoa tapaa päivittää ja esittää luettelodataa GitHubissa.
 
