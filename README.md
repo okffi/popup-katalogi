@@ -3,7 +3,7 @@ Helsingin kaupungin tietojärjestelmäluettelot CSV-muodossa
 
 Helsingin kaupunki on julkaissut Excel-tiedoston, jossa on osin puutteellinen, mutta paras saatavilla oleva luettelo kaupunkiorganisaation käyttämistä tietojärjestelmistä. Alkuperäistiedostossa järjestelmät on lueteltu virastoittain taulukon välilehdillä. Aineiston käytettävyyden parantamiseksi erilliset luettelot on koottu yhdeksi CSV-tiedostoksi (luettelossa 1040 riviä), jonka metatiedot on muvattu erillisessä tiedostossa.
 
-* [Alkuperäinen Excel -muotoinen tietojärjestelmäluettelo]()
+* [Alkuperäinen Excel -muotoinen tietojärjestelmäluettelo](https://dl.dropboxusercontent.com/u/2949803/Opendata/HKI_tietojarjestelmaluettelo_nettiversio_muokattu.xlsx)
 * Tietojärjestelmäluettelo CSV-muodossa: [HKI_tietojarjestelmaluettelo_nettiversio_muokattu.csv](https://github.com/okffi/popup-katalogi/blob/master/HKI_tietojarjestelmaluettelo_nettiversio_muokattu.csv)
 * CSV -muotoisen tietojärjestelmäluettelon metatiedot: [datapackage.json](https://github.com/okffi/popup-katalogi/blob/master/datapackage.json)
 * [Näkymä, jossa luettelosta on automaattisesti generoitu katalogi-näkymä: [bit.ly/helsingin_tietojarjestelmaluettelo](http://bit.ly/helsingin_tietojarjestelmaluettelo)
